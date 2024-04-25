@@ -10,6 +10,7 @@ import Navbar from './HomePage-Components/Navbar';
 import Home from './pages/Home.jsx';
 import SearchP from './pages/SearchP.jsx';
 import SignUp from './pages/SignUp.jsx';
+import profile from './pages/profile.jsx';
 
 // // Initialize Firebas
 // const firebaseConfig = {
@@ -67,29 +68,32 @@ import SignUp from './pages/SignUp.jsx';
 const App = () => {
   console.log(window.location.pathname)
   let Page
-  switch(window.location.pathname){
+  switch (window.location.pathname) {
     case "/":
       Page = Home
       break
-      case "/Search":
+    case "/Search":
       Page = SearchP
       break
-      case "/SignUp":
+    case "/SignUp":
       Page = SignUp
       break
+    case "/profile":
+      Page = profile
+      break
   }
-  if(Page === SignUp){
-    return(<Page />)
+  if (Page === SignUp) {
+    return (<Page />)
   }
-  else{
-  return (
+  else {
+    return (
 
-    <div className='App'>
-      <Navbar />
-      <Page />
-    </div>
-  );
-}
+      <div className='App'>
+        <Navbar />
+        <Page />
+      </div>
+    );
+  }
 }
 
 export default App;
