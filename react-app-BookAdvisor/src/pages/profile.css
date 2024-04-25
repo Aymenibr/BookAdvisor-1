@@ -1,14 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    align-items: center;
-}
-
 .acccount-page,
 .acccount-page * {
   box-sizing: border-box;
-  
 }
 .acccount-page {
   background: #f8f8f2;
@@ -27,7 +19,6 @@
   top: 349px;
   width: 1233px;
   height: 56px;
-  
 }
 .acccount-page .rectangle-1 {
   background: #d9d9d9;
@@ -35,7 +26,8 @@
   width: 1233px;
   height: 795px;
   position: absolute;
-  align-items: center;
+  left: 104px;
+  top: 405px;
 }
 .acccount-page .img-3426-1 {
   border-radius: 15px;

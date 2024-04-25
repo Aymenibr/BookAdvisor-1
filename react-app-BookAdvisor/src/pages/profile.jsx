@@ -1,11 +1,10 @@
 import "./profile.css";
-import book1 from "./src/imgs/Book1.jpeg";
-export const AcccountPage = ({ className, ...props }) => {
+ const profile = ({ className, ...props }) => {
   return (
     <div className={"acccount-page " + className}>
       <div className="aiman-alhaimi">AIMAN ALHAIMI </div>
       <div className="rectangle-1"></div>
-      <img className="img-3426-1" src={book1} />
+      <img className="img-3426-1" src="img-3426-20.png" />
       <img className="img-3426-2" src="img-3426-20.png" />
       <img className="img-3432-1" src="img-3432-10.png" />
       <img className="img-3432-2" src="img-3432-20.png" />
@@ -18,3 +17,4 @@ export const AcccountPage = ({ className, ...props }) => {
     </div>
   );
 };
+export default profile;
