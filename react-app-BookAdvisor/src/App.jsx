@@ -11,6 +11,7 @@ import Home from './pages/Home.jsx';
 import SearchP from './pages/SearchP.jsx';
 import SignUp from './pages/SignUp.jsx';
 import profile from './pages/profile.jsx';
+import add_book from './pages/add_book.jsx';
 
 // // Initialize Firebas
 // const firebaseConfig = {
@@ -80,6 +81,9 @@ const App = () => {
       break
     case "/profile":
       Page = profile
+      break
+    case "/add_book":
+      Page = add_book
       break
   }
   if (Page === SignUp) {
