@@ -69,14 +69,14 @@ import profile from './pages/profile.jsx';
 const App = () => {
   console.log(window.location.pathname)
   let Page
-  switch(window.location.pathname){
+  switch (window.location.pathname) {
     case "/":
       Page = Home
       break
-      case "/Search":
+    case "/Search":
       Page = SearchP
       break
-      case "/SignUp":
+    case "/SignUp":
       Page = SignUp
       break
       case "/profile":
@@ -86,11 +86,11 @@ const App = () => {
         Page = add_book
         break
   }
-  if(Page === SignUp){
-    return(<Page />)
+  if (Page === SignUp) {
+    return (<Page />)
   }
-  else{
-  return (
+  else {
+    return (
 
     <div className='App'>
       <Navbar />
