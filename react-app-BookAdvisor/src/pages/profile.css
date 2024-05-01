@@ -1,0 +1,151 @@
+.acccount-page,
+.acccount-page * {
+  box-sizing: border-box;
+}
+.acccount-page {
+  background: #f8f8f2;
+  height: 1231px;
+  position: relative;
+  overflow: hidden;
+}
+.acccount-page .aiman-alhaimi {
+  color: #000000;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 616px);
+  top: 349px;
+  width: 1233px;
+  height: 56px;
+}
+.acccount-page .rectangle-1 {
+  background: #d9d9d9;
+  border-radius: 33px;
+  width: 1233px;
+  height: 795px;
+  position: absolute;
+  left: 104px;
+  top: 405px;
+}
+.acccount-page .img-3426-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 197px;
+  height: 275px;
+  position: absolute;
+  left: 1054px;
+  top: 478px;
+  object-fit: cover;
+}
+.acccount-page .img-3426-2 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 197px;
+  height: 275px;
+  position: absolute;
+  left: 1054px;
+  top: 826px;
+  object-fit: cover;
+}
+.acccount-page .img-3432-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 197px;
+  height: 275px;
+  position: absolute;
+  left: 764px;
+  top: 478px;
+  object-fit: cover;
+}
+.acccount-page .img-3432-2 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 197px;
+  height: 275px;
+  position: absolute;
+  left: 764px;
+  top: 826px;
+  object-fit: cover;
+}
+.acccount-page .img-3429-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 207px;
+  height: 275px;
+  position: absolute;
+  left: 470px;
+  top: 478px;
+  object-fit: cover;
+}
+.acccount-page .img-3429-2 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 207px;
+  height: 275px;
+  position: absolute;
+  left: 470px;
+  top: 826px;
+  object-fit: cover;
+}
+.acccount-page .img-3427-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 193px;
+  height: 275px;
+  position: absolute;
+  left: 189px;
+  top: 478px;
+  object-fit: cover;
+}
+.acccount-page .img-3427-2 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 193px;
+  height: 275px;
+  position: absolute;
+  left: 189px;
+  top: 826px;
+  object-fit: cover;
+}
+.acccount-page .banner {
+  background: #003366;
+  width: 1440px;
+  height: 250px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.acccount-page .full-name-and-bio {
+  position: absolute;
+  inset: 0;
+}
+.acccount-page .ellipse-1 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #a5a58d;
+  border-width: 5px;
+  width: 200px;
+  height: 198.19px;
+  position: absolute;
+  left: 620px;
+  top: 151px;
+  object-fit: cover;
+}

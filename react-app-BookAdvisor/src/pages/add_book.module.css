@@ -1,0 +1,146 @@
+.singUpPageChild {
+    position: absolute;
+    top: 0px;
+    left: 480px;
+    border-radius: 40px 0px 0px 40px;
+    background-color: #f8f8f2;
+    width: 960px;
+    height: 1024px;
+    overflow: hidden;
+}
+.dalle2024030117422 {
+    position: absolute;
+    top: 273px;
+    left: 55px;
+    border-radius: 76px;
+    width: 357px;
+    height: 377px;
+    object-fit: cover;
+}
+.singUpPage {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #003366;
+    width: 1440px;
+    height: 1024px;
+    overflow: hidden;
+}
+.ratingStars {
+    position: relative;
+    width: 264px;
+    height: 56px;
+}
+.addNewBook {
+    position: absolute;
+    top: 130px;
+    left: 622px;
+    font-size: 40px;
+    color: #303030;
+}
+.bookTitle {
+    position: relative;
+    font-weight: 500;
+}
+.bookTitleWrapper {
+    position: absolute;
+    top: -9px;
+    left: 35px;
+    background-color: #f8f8f2;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 8px;
+}
+.inputField {
+    position: absolute;
+    top: 280px;
+    left: 607px;
+    border-radius: 8px;
+    border: 1px solid #7b7b7b;
+    box-sizing: border-box;
+    width: 735px;
+    height: 64px;
+}
+.inputField1 {
+    position: absolute;
+    top: 371px;
+    left: 607px;
+    border-radius: 8px;
+    border: 1px solid #7b7b7b;
+    box-sizing: border-box;
+    width: 735px;
+    height: 64px;
+}
+.inputField2 {
+    position: absolute;
+    top: 640px;
+    left: 607px;
+    border-radius: 8px;
+    border: 1px solid #7b7b7b;
+    box-sizing: border-box;
+    width: 352px;
+    height: 64px;
+}
+.inputField3 {
+    position: absolute;
+    top: 640px;
+    left: 990px;
+    border-radius: 8px;
+    border: 1px solid #7b7b7b;
+    box-sizing: border-box;
+    width: 352px;
+    height: 64px;
+}
+.inputField4 {
+    position: absolute;
+    top: 462px;
+    left: 607px;
+    border-radius: 8px;
+    border: 1px solid #7b7b7b;
+    box-sizing: border-box;
+    width: 735px;
+    height: 151px;
+}
+.img34391Icon {
+    position: absolute;
+    top: 154px;
+    left: 45px;
+    border-radius: 15px;
+    width: 415px;
+    height: 603px;
+    object-fit: cover;
+}
+.addBook {
+    position: relative;
+}
+/* hello */
+.addBookWrapper {
+    position: absolute;
+    top: 806px;
+    left: 767px;
+    border-radius: 8px;
+    background-color: #003366;
+    width: 415px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 40px;
+    box-sizing: border-box;
+    font-size: 22px;
+    color: #f8f8f2;
+}
+.singUpPageParent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #7b7b7b;
+    font-family: Inter;
+}
+
